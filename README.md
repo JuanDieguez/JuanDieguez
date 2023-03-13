@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @JuanDieguez
-- 👀 I’m interested in technology, gaming and anime  
 - 🌱 I’m currently learning software engineering at UADE
 <!-- - 💞️ I’m looking to collaborate on -
 - 📫 How to reach me -
